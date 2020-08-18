@@ -23,7 +23,7 @@
     <link href="http://cm.hilbertteam.net:6500/MAIN/groups/142?entrypoint=Book" rel="collection" title="Nonfiction"/>
     <updated>2020-08-17T15:48:41Z</updated>
     <link href="http://localhost:8080/borrow/" rel="http://opds-spec.org/acquisition/borrow" type="application/atom+xml;type=entry;profile=opds-catalog">
-      <opds:indirectAcquisition type="application/pdf"/>
+      <opds:indirectAcquisition type="application/epub+zip"/>
       <opds:availability status="available"/>
     </link>
     <link href="http://cm.hilbertteam.net:6500/MAIN/works/ISBN/9780231543973/related_books" type="application/atom+xml;profile=opds-catalog;kind=acquisition" rel="related" title="Recommended Works"/>

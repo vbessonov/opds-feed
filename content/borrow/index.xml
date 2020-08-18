@@ -26,7 +26,7 @@
   <bibframe:distribution bibframe:ProviderName="oapen"/>
   <published>2020-08-17T00:00:00Z</published>
   <updated>2020-08-17T15:48:41Z</updated>
-  <link href="http://localhost:8080/fulfill/" rel="http://opds-spec.org/acquisition" type="application/pdf">
+  <link href="http://localhost:8080/fulfill/" rel="http://opds-spec.org/acquisition" type="application/epub+zip">
     <opds:availability since="2020-08-17T15:52:17Z" status="available" until="2020-09-07T15:52:17Z"/>
   </link>
   <link href="http://cm.hilbertteam.net:6500/MAIN/loans/10/revoke" rel="http://librarysimplified.org/terms/rel/revoke"/>
