@@ -4,30 +4,6 @@
   <updated>2020-08-17T16:01:08Z</updated>
   <link href="/MAIN/groups/" rel="self"/>
   <entry schema:additionalType="http://schema.org/EBook">
-    <title>A Dictionary in Hindi and English</title>
-    <author>
-      <name>Steven Cohen</name>
-      <link href="http://cm.hilbertteam.net:6500/MAIN/works/contributor/Steven%20Cohen/eng/Adult%2CAdults%2BOnly%2CAll%2BAges%2CChildren%2CYoung%2BAdult" type="application/atom+xml;profile=opds-catalog;kind=acquisition" rel="contributor" title="Steven Cohen"/>
-    </author>
-    <simplified:pwid>3655fbf0-3d7b-1e05-6fca-5cba6ae32a8a</simplified:pwid>
-    <category term="Adult" scheme="http://schema.org/audience" label="Adult"/>
-    <dcterms:language>en</dcterms:language>
-    <link href="http://cm.hilbertteam.net:6500/MAIN/works/ISBN/9780231543972/report" rel="issues"/>
-    <id>urn:isbn:9780231543972</id>
-    <link href="http://cm.hilbertteam.net:6500/MAIN/works/ISBN/9780231543972" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate"/>
-    <bibframe:distribution bibframe:ProviderName="oapen"/>
-    <published>2020-08-17T00:00:00Z</published>
-    <link href="http://cm.hilbertteam.net:6500/MAIN/groups/142?entrypoint=Book" rel="collection" title="Nonfiction"/>
-    <updated>2020-08-17T15:48:40Z</updated>
-    <link href="http://localhost:8080/borrow/" rel="http://opds-spec.org/acquisition/borrow" type="application/atom+xml;type=entry;profile=opds-catalog">
-      <opds:indirectAcquisition type="application/pdf"/>
-      <opds:availability status="available"/>
-    </link>
-    <link href="http://cm.hilbertteam.net:6500/MAIN/works/ISBN/9780231543972/related_books" type="application/atom+xml;profile=opds-catalog;kind=acquisition" rel="related" title="Recommended Works"/>
-    <link href="http://cm.hilbertteam.net:6500/MAIN/annotations/ISBN/9780231543972" type="application/ld+json; profile=&quot;http://www.w3.org/ns/anno.jsonld&quot;" rel="http://www.w3.org/ns/oa#annotationService"/>
-    <link href="http://cm.hilbertteam.net:6500/MAIN/analytics/ISBN/9780231543972/open_book" rel="http://librarysimplified.org/terms/rel/analytics/open-book"/>
-  </entry>
-  <entry schema:additionalType="http://schema.org/EBook">
     <title>Dostoevsky Epub</title>
     <author>
       <name>Spec Writer</name>
