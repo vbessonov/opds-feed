@@ -1,0 +1,11 @@
+version: "3.6"
+
+services:
+  proxy:
+    image: nginx
+    restart: always
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+      - ./content:/usr/share/nginx/html
